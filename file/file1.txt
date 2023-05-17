@@ -1,0 +1,1 @@
+EMP ID: 1	Name: n	Address: n	Age: 1	Salary: 1.00
